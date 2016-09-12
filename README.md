@@ -12,3 +12,7 @@ List of tools to try
 ## Inspirational
 [Responsive Example](http://mediaqueri.es/)
 
+## Coding
+http://nodeschool.io/
+https://egghead.io/courses
+
